@@ -1,6 +1,6 @@
 # 祝你拼好图 / Image Processing Tool
 
-**版本：V1.0.0 正式版 / Version: V1.0.0 Release**
+**版本：V1.0.1 正式版 / Version: V1.0.1 Release**
 
 ## 项目描述 / Description
 

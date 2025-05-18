@@ -49,22 +49,6 @@ This is a desktop application built with Python and Tkinter, focusing on two cor
 *   Tkinter (通常随标准 Python 安装自带 / Usually included with standard Python installations)
 *   具有图形界面的操作系统 / A graphical desktop environment
 
-## 安装与运行 / Installation and Usage
-
-1.  克隆仓库或下载脚本文件 (`your_script_name.py`)。
-    Clone the repository or download the script file (`your_script_name.py`).
-2.  使用 pip 安装所需库：
-    Install the required library using pip:
-    ```bash
-    pip install Pillow
-    ```
-3.  从终端运行脚本：
-    Run the script from your terminal:
-    ```bash
-    python your_script_name.py
-    ```
-    将 `your_script_name.py` 替换为您实际的脚本文件名。
-    Replace `your_script_name.py` with your actual script file name.
 
 ## 使用方法 / Usage
 

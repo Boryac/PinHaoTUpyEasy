@@ -64,4 +64,4 @@ v1.0.0 - 2025
 ---
 
 本工具采用MIT License开源协议，欢迎商业用途。  
-Copyright © 2025 ImageBlender Team. All rights reserved.
+Copyright © 2025 Boryac Team. All rights reserved.

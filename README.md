@@ -4,9 +4,9 @@
 
 ## 项目描述 / Description
 
-这是一个使用 Python 和 Tkinter 构建的桌面应用程序，专注于两个核心图片处理功能：将一张反色图片分解为多个部分以便后续重组，以及将多张图片混合叠加。界面设计参考了网易云音乐的风格，提供了直观的操作体验。
+这是一个使用 Python 和 Tkinter 构建的桌面应用程序，专注于两个核心图片处理功能：将一张反色图片分解为多个部分以便后续重组，以及将多张图片混合叠加。
 
-This is a desktop application built with Python and Tkinter, focusing on two core image processing functionalities: breaking down an inverted image into multiple parts for later reassembly, and blending multiple images together. The user interface is designed with inspiration from NetEase Cloud Music's style, providing an intuitive user experience.
+This is a desktop application built with Python and Tkinter, focusing on two core image processing functionalities: breaking down an inverted image into multiple parts for later reassembly, and blending multiple images together. 
 
 ## 主要功能 / Features
 
@@ -39,10 +39,8 @@ This is a desktop application built with Python and Tkinter, focusing on two cor
 *   **用户界面 / User Interface:**
     *   基于 Tkinter 和 ttk 构建的标签页式简洁界面。
     *   混合叠加标签页支持垂直滚动，优化大量图片选择时的体验。
-    *   应用了基本的仿网易云音乐风格样式。
     *   Tabbed simple interface built with Tkinter and ttk.
     *   Blending tab includes vertical scrolling for a better experience when selecting many images.
-    *   Applies basic styling inspired by NetEase Cloud Music.
 
 ## 系统要求 / Requirements
 
